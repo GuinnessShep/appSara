@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456201981204",
+    "project_id": "appsara-6707f",
+    "storage_bucket": "appsara-6707f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456201981204:android:56d2fdec2f839f5b8c0601",
+        "android_client_info": {
+          "package_name": "com.example.appsara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456201981204-7p2qipc7dt5hernh5kjgokl56mao8u7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appsara",
+            "certificate_hash": "34bee635251475481767626d48322dfad5b1dcb1"
+          }
+        },
+        {
+          "client_id": "456201981204-nj1qd665850o3a6et9cfbce0ucnolaf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIe3IwHrMkLDG8tNqLqR6sn0lRoG0roA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456201981204-nj1qd665850o3a6et9cfbce0ucnolaf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
